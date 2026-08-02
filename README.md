@@ -55,6 +55,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
+
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=coyak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=coyak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ### 🔭 Estado actual
